@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyRecieptManager</string>
+    <string name="title_text_view">Title</string>
+    <string name="shop_name_text_view">Shop Name</string>
+    <string name="comment_text_view">Comment</string>
+    <string name="date_button">Date</string>
+    <string name="location_text_view">Location</string>
+    <string name="map_button">View Google Maps</string>
+    <string name="generate_report_button">Generate Report</string>
+    <string name="new_menu_item">New Item + </string>
+    <string name="help_menu_item">Help?</string>
+    <string name="title_text_edit">Enter title</string>
+    <string name="shop_name_text_edit">Enter Shop Name</string>
+    <string name="comment_text_edit">Enter Comment</string>
+
+
+</resources>
